@@ -208,8 +208,8 @@ def move_cluster(cluster_particles, dx):
     for particle in cluster_particles:
         grid[particle.x][particle.y] = particle
     # Play move sound
-    # if move_sound:
-    #     move_sound.play()
+    if move_sound:
+        move_sound.play()
 
 def animate_particles_removal(particles_to_remove):
     for _ in range(5):
