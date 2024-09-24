@@ -21,7 +21,7 @@ A colorful Pygame puzzle game where you connect sand particles of the same color
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/azkalalghani/sand-connect.git
+   git clone https://github.com/azkalalghani/SandConnect.git
 
 ## Credits
 
